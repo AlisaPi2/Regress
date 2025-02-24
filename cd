@@ -1,0 +1,3 @@
+import pandas as pd
+data = pd.read_csv('Real estate.csv', index_col=0)
+  
